@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='brodcast_receiver_implementation'
